@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1701912648574,"sparkVersion":"3.3.2","uid":"StringIndexer_f46af33a5983","paramMap":{"outputCol":"is_guest_login_index","inputCol":"is_guest_login","handleInvalid":"keep"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_f46af33a5983__output","handleInvalid":"error"}}
